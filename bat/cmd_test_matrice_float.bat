@@ -1,0 +1,1 @@
+gcc -Wall -I include/ -o .\tests\test_matrice_float .\tests\test_matrice_float.c .\src\matrice_float.c

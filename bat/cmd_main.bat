@@ -1,0 +1,1 @@
+gcc -Wall -I include/ -o .\bin\gestion_matrice src/*.c

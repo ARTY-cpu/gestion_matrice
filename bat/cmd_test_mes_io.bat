@@ -1,0 +1,1 @@
+gcc -Wall -I include/ -o .\tests\test_mes_io .\tests\test_mes_io.c .\src\mes_entrees_sorties.c
