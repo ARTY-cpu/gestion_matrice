@@ -10,7 +10,7 @@ typedef struct
 
 matrice_t *allouer_matrice(unsigned int dim1, unsigned int dim2);
 
-void saisir_matrice(matrice_t * m);
+void saisir_matrice(matrice_t *m);
 
 void affiche_matrice(matrice_t *m);
 
